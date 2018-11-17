@@ -13,6 +13,7 @@ describe('fizzbuzz',()=>{
     it('should return Fizz if number is 3',() =>{
         const number = 3;
         const result = libs.fizzbuzz(number);
+        
         expect(result).toBe("Fizz"); 
     })
     it('should return 4 if number is 4',() =>{
