@@ -1,0 +1,22 @@
+{
+  "name": "pond",
+  "version": "1.0.0",
+  "description": "test automated",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marnam037/testJest.git"
+  },
+  "author": "5930213037",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marnam037/testJest/issues"
+  },
+  "homepage": "https://github.com/Marnam037/testJest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
